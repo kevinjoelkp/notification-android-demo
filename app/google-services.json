@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "50081130904",
+    "project_id": "push-notifications-24a86",
+    "storage_bucket": "push-notifications-24a86.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:50081130904:android:8681d651b2da70fffba3ed",
+        "android_client_info": {
+          "package_name": "com.bae.pushnotificationsdemo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcnmhh537M6GeFfte6oWyw511WmJlJwLA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
